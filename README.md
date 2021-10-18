@@ -14,3 +14,5 @@ Predicting electricity consumption with stacking ensemble
 Recommending frequent pins to users
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mOZKgqL_vjhtpMwf-sXAiFdvkyWhS4uB?usp=sharing)
+
+![](https://raw.githubusercontent.com/AsalJalilvand/kaggle/master/images/uber_frequent_pins.PNG)
