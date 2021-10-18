@@ -9,3 +9,8 @@ Avocado Prices data exploration and price range prediction using quantile regres
 Predicting electricity consumption with stacking ensemble
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RN93yQ0kqAwlgAQZLVs9fAezk_5DryAd?usp=sharing)
+
+# [Peru Uber Dataset 2010](https://www.kaggle.com/marcusrb/uber-peru-dataset)
+Recommending frequent pins to users
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mOZKgqL_vjhtpMwf-sXAiFdvkyWhS4uB?usp=sharing)
